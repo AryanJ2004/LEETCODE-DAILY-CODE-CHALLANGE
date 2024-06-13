@@ -8,7 +8,6 @@ public:
         {
             sum+=abs(students[i]-seats[i]);
         }
-        int c=abs(sum);
-        return c;
+        return sum;
     }
 };
