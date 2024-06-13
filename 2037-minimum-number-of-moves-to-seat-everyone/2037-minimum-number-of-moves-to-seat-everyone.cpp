@@ -5,9 +5,7 @@ public:
         sort(students.begin(),students.end());
         int sum=0;
         for(int i=0;i<students.size();i++)
-        {
             sum+=abs(students[i]-seats[i]);
-        }
         return sum;
     }
 };
