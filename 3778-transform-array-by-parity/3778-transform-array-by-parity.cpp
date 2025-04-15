@@ -1,16 +1,15 @@
 class Solution {
 public:
     vector<int> transformArray(vector<int>& nums) {
-        int evencnt=0;
-        int oddcnt=0;
-
-        for(auto num:nums){
-            if(num%2==0) evencnt++;
-            else oddcnt++;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]%2){
+                nums[i] = 1;
+            }
+            else{
+                nums[i] = 0;
+            }
         }
-
-        vector<int>vec(evencnt, 0);
-        vec.insert(vec.end(),oddcnt,1);
-        return vec;
+        sort(nums.begin(),nums.end());
+        return nums;
     }
 };
