@@ -15,7 +15,9 @@ public:
         while (temp != nullptr && temp->next != nullptr) {
             if (temp->val == temp->next->val) {
                 // Skip the duplicate node
+                ListNode* nnode=temp->next;
                 temp->next = temp->next->next;
+                delete nnode;
             } else {
                 // Move to the next node if no duplicate
                 temp = temp->next;
