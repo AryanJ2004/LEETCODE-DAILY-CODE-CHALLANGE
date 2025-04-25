@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0682-baseball-game) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
 ## Sorting
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0283-move-zeroes) |
 ## Recursion
 |  |
 | ------- |
