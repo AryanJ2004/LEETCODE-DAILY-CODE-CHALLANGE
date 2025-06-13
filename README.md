@@ -50,10 +50,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
+| [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0724-find-pivot-index](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2102-find-the-middle-index-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
