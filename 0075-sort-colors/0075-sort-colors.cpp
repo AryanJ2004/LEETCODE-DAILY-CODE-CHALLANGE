@@ -1,15 +1,20 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-       int one=count(nums.begin(),nums.end(),1);
-       int zero=count(nums.begin(),nums.end(),0);
-       int two=count(nums.begin(),nums.end(),2);
-       for(int i=0;i<zero;i++)
-       nums[i]=0;
-       for(int i=zero;i<zero+one;i++)
-       nums[i]=1;
-       for(int i=zero+one;i<zero+one+two;i++)
-       nums[i]=2;
+        int hash[3]={0};
+        for(int i=0;i<nums.size();i++){
+            hash[nums[i]]++;
+        }
+
+        int index = 0;
+        for(int color = 0; color < 3; color++) {
+            while(hash[color]--) {
+                nums[index++] = color;
+            }
+        }
+        for(auto n : nums) {
+            cout << n << " ";
+        }
 
     }
 };
