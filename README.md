@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0485-max-consecutive-ones) |
@@ -34,12 +35,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0387-first-unique-character-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
 ## Stack
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
