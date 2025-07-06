@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0344-reverse-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0387-first-unique-character-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
