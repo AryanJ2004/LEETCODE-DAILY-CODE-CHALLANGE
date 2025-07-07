@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0328-odd-even-linked-list) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1078-remove-outermost-parentheses) |
 ## Simulation
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0344-reverse-string) |
 ## Recursion
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
