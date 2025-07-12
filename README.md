@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0792-binary-search) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0062-unique-paths) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
