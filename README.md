@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0062-unique-paths) |
+| [0435-non-overlapping-intervals](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0678-valid-parenthesis-string) |
