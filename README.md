@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0724-find-pivot-index) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1013-fibonacci-number) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0733-flood-fill) |
 ## Greedy
 |  |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0733-flood-fill) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2121-find-if-path-exists-in-graph) |
