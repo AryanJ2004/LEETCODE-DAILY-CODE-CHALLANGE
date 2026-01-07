@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0783-search-in-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0733-flood-fill) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2121-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0783-search-in-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
