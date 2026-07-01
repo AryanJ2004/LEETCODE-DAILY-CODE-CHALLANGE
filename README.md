@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2102-find-the-middle-index-in-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3778-transform-array-by-parity](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3778-transform-array-by-parity) |
 ## Sorting
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0994-rotting-oranges) |
 | [1975-maximum-matrix-sum](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/1975-maximum-matrix-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0994-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2121-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -391,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -416,4 +421,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
