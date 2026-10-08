@@ -9,7 +9,7 @@ public:
                 if (nums2[j] == element) {
                     // Now search for the next greater element in nums2
                     for (int k = j + 1; k < nums2.size(); k++) {
-                        if (nums2[k] > nums2[j]) {
+                        if (nums2[k] >element) {
                             nextGreater = nums2[k];
                             break;
                         }
