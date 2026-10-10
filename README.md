@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0055-jump-game) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0143-reorder-list) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0062-unique-paths) |
@@ -477,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AryanJ2004/LEETCODE-DAILY-CODE-CHALLANGE/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
