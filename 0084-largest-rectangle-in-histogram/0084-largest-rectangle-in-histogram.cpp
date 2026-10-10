@@ -4,47 +4,59 @@ public:
         int n=heights.size();
         vector<int>nsl(n);
         vector<int>nsr(n);
-        stack<int>s;
+
+        stack<int>st;
+
         nsl[0]=-1;
-        s.push(0);
-        for(int i=0;i<n;i++){
+        st.push(0);
+
+        for(int i=1;i<n;i++){
             int curr=heights[i];
-            while(!s.empty() && curr<=heights[s.top()]){
-                s.pop();
+
+            while(!st.empty() && heights[st.top()]>=curr){
+                st.pop();
             }
-            if(s.empty()){
+
+            if(st.empty()){
                 nsl[i]=-1;
             }else{
-                nsl[i]=s.top();
+                nsl[i]=st.top();
             }
-            s.push(i);
+            st.push(i);
+
         }
 
-        while(!s.empty()){
-            s.pop();
-        } 
-        s.push(n-1);
+        while(!st.empty()){
+            st.pop();
+        }
+
+        st.push(n-1);
         nsr[n-1]=n;
-         for(int i=n-2;i>=0;i--){
+
+        for(int i=n-2;i>=0;i--){
             int curr=heights[i];
-            while(!s.empty() && curr<=heights[s.top()]){
-                s.pop();
+
+
+            while(!st.empty() && heights[st.top()]>=curr){
+                st.pop();
             }
-            if(s.empty()){
+            if(st.empty()){
                 nsr[i]=n;
             }else{
-                nsr[i]=s.top();
+                nsr[i]=st.top();
             }
-            s.push(i);
-        }
-        int maxArea=0;
-        for(int i=0;i<n;i++){
-            int ht=heights[i];
-            int width=nsr[i]-nsl[i]-1;
-            int area=ht*width;
-            maxArea=max(maxArea,area);
-        }
-        return maxArea;
 
+            st.push(i);
+        }
+
+        int maxArea=0;
+
+        for(int i=0;i<n;i++){
+            int area=heights[i]*(nsr[i]-nsl[i]-1);
+            maxArea=max(area,maxArea);
+        }
+
+        return maxArea;
     }
+
 };
