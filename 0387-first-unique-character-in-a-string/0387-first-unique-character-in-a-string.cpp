@@ -1,15 +1,27 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int freq[26] = {0};
+        map<char,int>mpp;
+        queue<char>q;
 
-        for (char ch : s) {
-            freq[ch - 'a']++;
+        for(int i=0;i<s.size();i++){
+            char ch=s[i];
+
+           mpp[ch]++;
+
+            // q.push(s[i]);
+
+            // while(!q.empty() && freq[q.front()-'a']>1){
+            //     q.pop();
+            // }
+
+            // if(q.empty()){
+            // }else{
+
+            // }
         }
-
-        for (int i = 0; i < s.size(); i++) {
-            if (freq[s[i] - 'a'] == 1)
-                return i;
+        for(int i=0;i<s.size();i++){
+            if(mpp[s[i]]==1) return i;
         }
 
         return -1;
